@@ -1,0 +1,11 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+body{
+    align-items:center;
+    background:linear-gradient(320deg,#eb92be,#ffef78,#63c9b4);
+    font-display:'Dosis',sans-serif;
+    font-display:swap;
+    justify-content:center;
+    font-family: 'Italianno', cursive;
+}
